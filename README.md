@@ -10,7 +10,8 @@
 
 writejson.c、SSHClient.c通过交叉编译后放在板子上，用UseOV5695.py调用运行
 在运行项目之前，需要下载cJSON开源代码并放在和OpenCVUseOV5695文件夹相同的文件夹下，将cJSON.c和cJSON.h放在OpenCVUseOV5695文件夹中
-UseOV5695.py和UseOV5695.cpp代码来自https://blog.csdn.net/weixin_44292294/article/details/130167508，感谢博主的代码让我们解决了摄像头难题。
+UseOV5695.py和UseOV5695.cpp代码来自 https://blog.csdn.net/weixin_44292294/article/details/130167508
+感谢博主的代码让我们解决了摄像头难题。
 SSHClient.c和SSHServer.c和SSH协议无关，只是实现了套接字通信。代码来源于网络。
 
 感谢周文莉老师的嵌入式系统实践教学，使得该项目立即用上了课程中的知识，包括但不限于信号量、进程控制等
