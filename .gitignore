@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 自定义
+代码包.zip
+/流程图
+cJSON*
+__MACOSX
