@@ -1,3 +1,15 @@
 {
-    "cmake.sourceDirectory": "C:/Users/LAPTOP_Lin-uCong/Desktop/信息系统设计/代码/SimSystem/CMake_onboard"
+    "cmake.sourceDirectory": "/media/linucong/E49C9E899C9E5640/Users/LAPTOP_Lin-uCong/Desktop/信息系统设计/代码/SimSystem/CMake_onboard",
+    "files.associations": {
+        "in.h": "c",
+        "wait.h": "c",
+        "cjson.h": "c",
+        "stdlib.h": "c",
+        "types.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "errno.h": "c",
+        "fcntl.h": "c",
+        "time.h": "c"
+    }
 }

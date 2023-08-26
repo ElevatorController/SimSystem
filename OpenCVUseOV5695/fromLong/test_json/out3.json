@@ -1,0 +1,90 @@
+{
+    "elevators": [
+        {
+            "current_floor": 3.0,
+            "move_direction": 0
+        },
+        {
+            "current_floor": 3.0,
+            "move_direction": 1
+        },
+        {
+            "current_floor": 3.5,
+            "move_direction": 1
+        }
+    ],
+    "people": [
+        {
+            "come_time": 1,
+            "from_floor": 3,
+            "to_floor": 12,
+            "current_floor": 3.0,
+            "in_which_elevator": 2,
+            "is_out": false
+        },
+        {
+            "come_time": 1,
+            "from_floor": 3,
+            "to_floor": 12,
+            "current_floor": 3.0,
+            "in_which_elevator": 2,
+            "is_out": false
+        },
+        {
+            "come_time": 1,
+            "from_floor": 3,
+            "to_floor": 12,
+            "current_floor": 3.0,
+            "in_which_elevator": 0,
+            "is_out": false
+        },
+        {
+            "come_time": 2,
+            "from_floor": 5,
+            "to_floor": 8,
+            "current_floor": 5.0,
+            "in_which_elevator": 0,
+            "is_out": false
+        },
+        {
+            "come_time": 2,
+            "from_floor": 10,
+            "to_floor": 8,
+            "current_floor": 10.0,
+            "in_which_elevator": 0,
+            "is_out": false
+        },
+        {
+            "come_time": 2,
+            "from_floor": 6,
+            "to_floor": 8,
+            "current_floor": 6.0,
+            "in_which_elevator": 0,
+            "is_out": false
+        },
+        {
+            "come_time": 3,
+            "from_floor": 5,
+            "to_floor": 8,
+            "current_floor": 5.0,
+            "in_which_elevator": 0,
+            "is_out": false
+        },
+        {
+            "come_time": 3,
+            "from_floor": 10,
+            "to_floor": 8,
+            "current_floor": 10.0,
+            "in_which_elevator": 0,
+            "is_out": false
+        },
+        {
+            "come_time": 3,
+            "from_floor": 6,
+            "to_floor": 8,
+            "current_floor": 6.0,
+            "in_which_elevator": 0,
+            "is_out": false
+        }
+    ]
+}
